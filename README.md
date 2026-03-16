@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Walbert!
 
-<!--
-**WalbertPrado/walbertprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+Estudante apaixonado por tecnologia, focado em transformar problemas em soluções lógicas e eficientes. Atualmente, estou mergulhando no mundo do desenvolvimento web e análise de dados.
 
-Here are some ideas to get you started:
+- Atualmente estudando **Introdução à Informática e Lógica**.
+- Aprendendo **Python, HTML e CSS**.
+- Pergunte-me sobre tecnologia ou sobre meu cronograma de estudos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tecnologias que estou aprendendo
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### Vamos nos conectar?
+<p align="left">
+  <a href="mailto:walbertprado@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
