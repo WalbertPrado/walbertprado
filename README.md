@@ -3,7 +3,7 @@
 ### Sobre mim
 Estudante apaixonado por tecnologia, focado em transformar problemas em soluções lógicas e eficientes. Atualmente, estou mergulhando no mundo do desenvolvimento web e análise de dados.
 
-- Atualmente estudando **Introdução à Informática e Lógica**.
+- Atualmente estudando **ADS (superior) e DS (técnico)**.
 - Aprendendo **Python, HTML e CSS**.
 - Pergunte-me sobre tecnologia ou sobre meu cronograma de estudos!
 
